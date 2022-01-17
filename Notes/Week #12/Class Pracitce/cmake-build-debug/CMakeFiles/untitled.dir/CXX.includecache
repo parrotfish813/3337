@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bmt81/CLionProjects/untitled/Route.cpp
+Route.h
+C:/Users/bmt81/CLionProjects/untitled/Route.h
+Trip.h
+C:/Users/bmt81/CLionProjects/untitled/Trip.h
+
+C:/Users/bmt81/CLionProjects/untitled/Route.h
+iostream
+-
+string
+-
+Vector
+-
+Trip.h
+C:/Users/bmt81/CLionProjects/untitled/Trip.h
+
+C:/Users/bmt81/CLionProjects/untitled/Trip.h
+
+C:/Users/bmt81/CLionProjects/untitled/main.cpp
+iostream
+-
+Route.h
+C:/Users/bmt81/CLionProjects/untitled/Route.h
+

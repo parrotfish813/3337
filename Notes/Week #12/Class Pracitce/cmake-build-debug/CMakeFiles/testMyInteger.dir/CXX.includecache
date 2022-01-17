@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bmt81/CLionProjects/untitled/MyInteger.h
+
+C:/Users/bmt81/CLionProjects/untitled/testMyInteger.cpp
+iostream
+-
+MyInteger.h
+C:/Users/bmt81/CLionProjects/untitled/MyInteger.h
+
+C:/Users/bmt81/Downloads/MyInteger.cpp
+iostream
+-
+MyInteger.h
+C:/Users/bmt81/Downloads/MyInteger.h
+
